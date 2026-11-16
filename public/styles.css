@@ -121,8 +121,8 @@ body {
   height: auto;
 }
 
-/* The logo file has a white background. On the dark ground it sits on a
-   white plate of its own. */
+/* The logo's wordmark is navy, which the dark ground would swallow, so
+   there it sits on a white plate of its own. */
 @media (prefers-color-scheme: dark) {
   .logo {
     box-sizing: content-box;

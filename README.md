@@ -17,7 +17,7 @@ It holds no data and nobody signs in to it; each app keeps its own sign-in.
       index.html       the page: one block per app
       styles.css       all of the styling, colours at the top
       fonts/           Atkinson Hyperlegible Next, self-hosted (OFL)
-      img/             the practice logo
+      img/             the practice logo, as an SVG
     vercel.json        the response headers (see below)
 
 There is no build step and no JavaScript.
